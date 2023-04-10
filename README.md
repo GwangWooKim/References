@@ -1,2 +1,2 @@
 # References
-This is just for references
+This is just for storage.
